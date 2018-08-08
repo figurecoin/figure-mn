@@ -119,7 +119,7 @@ function update_config() {
 logintimestamps=1
 maxconnections=256
 #bind=$NODEIP
-masternode=0
+masternode=1
 externalip=$NODEIP:$COIN_PORT
 masternodeprivkey=$COINKEY
 addnode=188.225.75.13
